@@ -38,4 +38,23 @@ Region / Country – Geographical location of the sales
 
 Order Date & Ship Date – Timeline of sales and delivery operations 
 
+##  LIBRARIES USED 
+
+ For Data Loading & Manipulation 
+
+Pandas – Used for data cleaning, transformation, and structured data handling. 
+
+NumPy – Used for numerical operations and mathematical computations 
+
+ For Data Visualization 
+
+Matplotlib – Used for creating basic charts, graphs, and data plots to represent sales trends and distributions. 
+
+Seaborn – Built on top of Matplotlib, used for advanced statistical visualizations with enhanced aesthetics. 
+
+
+
+
+
+
 This dataset offers a comprehensive perspective on sales performance and profitability, enabling analysis across multiple dimensions such as product, region, time, and customer behavior. 
