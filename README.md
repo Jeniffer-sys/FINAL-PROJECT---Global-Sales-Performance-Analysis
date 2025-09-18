@@ -38,7 +38,7 @@ Region / Country – Geographical location of the sales
 
 Order Date & Ship Date – Timeline of sales and delivery operations 
 
-##  LIBRARIES USED 
+## Libraries Used
 
  For Data Loading & Manipulation 
 
